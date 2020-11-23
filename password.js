@@ -1,1 +1,1 @@
-newPassword
+NewPassword
